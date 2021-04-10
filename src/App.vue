@@ -3,7 +3,7 @@
     <component :is="layout">
       <router-view/>
     </component>
-    <h1>привет</h1>
+    <H1>21212</H1>
   </div>
 </template>
 
